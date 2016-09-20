@@ -16,11 +16,11 @@ var storiesScript, slotsScript;
 var editionDropdown = {
     items: [
         {label: 'All', value: 'all'},
-        {label: 'China', value: 'all'},
-        {label: 'UK', value: 'all'},
-        {label: 'France', value: 'all'},
-        {label: 'Germany', value: 'all'},
-        {label: 'Canada', value: 'all'},
+        {label: 'China', value: 'ch'},
+        {label: 'UK', value: 'uk'},
+        {label: 'France', value: 'fr'},
+        {label: 'Germany', value: 'ge'},
+        {label: 'Canada', value: 'ca'},
         
     ]
 };
